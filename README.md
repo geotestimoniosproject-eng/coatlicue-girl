@@ -1,8 +1,3 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
-
-![Preview](preview.jpg)
-
 ## Live links (replace with your own)
 - Leaflet Map https://geotestimoniosproject-eng.github.io/coatlicue-girl/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1mBcKyS-TgxEa2lGqYusGK0G_gIRjGXyWDcYg-tNcs28/edit?gid=0#gid=0
